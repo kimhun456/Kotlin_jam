@@ -1,4 +1,4 @@
-package standard_function
+package scope_functions
 
 import kotlin.contracts.ExperimentalContracts
 import kotlin.contracts.InvocationKind

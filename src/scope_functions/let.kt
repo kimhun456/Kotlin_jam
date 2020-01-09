@@ -1,4 +1,4 @@
-package standard_function
+package scope_functions
 
 import java.util.*
 import kotlin.contracts.ExperimentalContracts
