@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aef2482-43b4-4c59-b508-ab8ed00e7be7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scope_functions/Scope Functions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard_function/apply.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope_functions/apply.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard_function/let.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope_functions/let.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard_function/run.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope_functions/run.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard_function/with.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope_functions/with.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +141,19 @@
       <option name="presentableId" value="Default" />
       <updated>1566433410859</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Scrope Functions markdown file">
+      <created>1578531899270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578531899270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Scrope Functions markdown file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Scrope Functions markdown file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="181" key="#Plugins" timestamp="1578531541521">
@@ -161,6 +168,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1280" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578529527931" />
+    <state x="-1309" y="117" key="CommitChangelistDialog2" timestamp="1578531879793">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1309" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578531879793" />
     <state width="1877" height="194" key="GridCell.Tab.0.bottom" timestamp="1578531255411">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -185,6 +196,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1457" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578531300428" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1578531919052">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578531919052" />
     <state x="-1256" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578531552828">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
